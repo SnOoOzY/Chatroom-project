@@ -1,6 +1,6 @@
 # Chatroom-project
 Quick little python chatroom project
 
-Only works through command prompt windows (preferrably use 2 windows - one for the server and other for the client if wanting to anylise both in action)
+Only works through command prompt windows (preferrably use 3 windows - one for the server and other(s) for the client if wanting to anylise both in action)
 
-Not fully working atm, still fixing some bugs involving desktops denying access to the client & server
+!!may not function as intended, as there is a socket issue still being resolved!!
